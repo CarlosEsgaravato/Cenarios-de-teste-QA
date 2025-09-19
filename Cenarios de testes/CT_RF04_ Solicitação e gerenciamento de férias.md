@@ -69,3 +69,9 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os status devem refletir corretamente o estado da solicitação.  |
+
+## 🔗 Evidências (Jam.dev)
+
+- **C01-CT01** → [Execução](https://jam.dev/c/5a0fd304-dd19-486b-8c09-0a4028990da9)  
+- **C01-CT02** → [Execução](https://jam.dev/c/dd12f82b-b13d-474b-a869-40e54ef4c338)  
+- **C01-CT03** → [Execução](https://jam.dev/c/20888316-c534-4f72-96cc-ef08e8c604fe) 
