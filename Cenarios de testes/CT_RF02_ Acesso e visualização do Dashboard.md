@@ -65,3 +65,9 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A sessão expirada deve ser tratada corretamente com redirecionamento. |
+
+## 🔗 Evidências (Jam.dev)
+
+- **C01-CT01** → [Execução](https://jam.dev/c/b12d7d56-d5f3-4337-9f5e-0ba4e3308ff1)  
+- **C01-CT02** → [Execução](https://jam.dev/c/b12d7d56-d5f3-4337-9f5e-0ba4e3308ff1)  
+- **C01-CT03** → [Execução](https://jam.dev/c/c61c9904-fad2-420e-9ab4-a10aea7b160d) 
