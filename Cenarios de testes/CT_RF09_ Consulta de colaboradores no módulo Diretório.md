@@ -66,3 +66,9 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O filtro deve funcionar corretamente e retornar apenas resultados válidos. |
+
+## 🔗 Evidências (Jam.dev)
+
+- **C01-CT01** → [Execução](https://jam.dev/c/56c680fd-ab5d-4e80-ba0e-f8e3851f4669)  
+- **C01-CT02** → [Execução](https://jam.dev/c/3c38ace6-c123-4fa2-9e6b-13cda270cc09)  
+- **C01-CT03** → [Execução](https://jam.dev/c/601a35d6-7f7d-46b4-9bb6-bf153a40b6ef)
